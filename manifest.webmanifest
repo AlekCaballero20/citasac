@@ -1,0 +1,17 @@
+{
+  "name": "Citas con Cata",
+  "short_name": "Citas",
+  "description": "App privada para registrar ideas de citas, repetir planes y guardar recuerdos.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8ff",
+  "theme_color": "#f7e8ff",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
